@@ -1,11 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Efe 👋
 
-<h1 align="center">Hi 👋, I'm Efe</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3>A passionate backend developer from Turkey</h3>
+<h2> A lifelong learner passionate about engineering scalable backend systems. I build full-stack applications as a canvas to bring server-side power to life.</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQ2emNlaWw5ajA2amZkbDBnMDVjcjNjaGo0dmFwN210c2N6OWxtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="40px" />
-  I enjoy building robust, scalable APIs and bringing ideas to life with code.
+<p>
+  <ul>
+    <li>
+       🔭 As a backend enthusiast, I'm always exploring new technologies. I use the frontend as a canvas to bring the power and complexity of the backend to life.
+    </li>
+    <li>
+       🌱 I'm actively looking for opportunities to collaborate with creative people and build products that users genuinely love.
+    </li>
+    <li>
+      👯 I enjoy tackling complex challenges and turning them into simple, elegant, and scalable software solutions.
+    </li>
+  </ul>
 </p>
 
 ---
@@ -17,75 +26,77 @@
 - 💬 LinkedIn üzerinden bağlantı kurmak için:
 
 <p align="left">
-<a href="https://linkedin.com/in/efeozel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efeozel" height="30" width="40" /></a>
-<a href="https://instagram.com/efeozell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efeozell" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efeozel" height="30" width="40" /></a>
+<a href="https://instagram.com/efeeozell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efeozell" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 💻 **Teknolojiler ve Araçlar**
+### 💻 **Languages And Tech Stack**
 
-**Backend:**
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="nodejs" width="50" height="50"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="nodejs" width="50" height="50"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="nodejs" width="50" height="50"/>
   </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="nodejs" width="50" height="50"/>
+  </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vite" alt="nodejs" width="50" height="50"/>
+  </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=npm" alt="nodejs" width="50" height="50"/>
+  </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redux" alt="nodejs" width="50" height="50"/>
+  </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="nodejs" width="50" height="50"/>
+  </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=expressjs" alt="nodejs" width="50" height="50"/>
+  </a>
+   </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="nodejs" width="50" height="50"/>
+  </a>
+   </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="nodejs" width="50" height="50"/>
+  </a>
+   </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
+  </a>
+   </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="nodejs" width="50" height="50"/>
+  </a>
+   </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="nodejs" width="50" height="50"/>
+  </a>
+   </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="nodejs" width="50" height="50"/>
+  </a>
+  
 </p>
 
-**Frontend:**
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-</p>
-
-**Database:**
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-</p>
-
-**Araçlar & DevOps:**
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://eslint.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" alt="eslint" width="50" height="50"/>
-  </a>
-</p>
 
 ---
 
 ### 📊 **GitHub İstatistiklerim**
 
 <p align="center">
-  <a href="https://github.com/EfeOzel">
-    <img src="https://github-readme-stats.vercel.app/api?username=EfeOzel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Efe's GitHub Stats" />
+  <a href="https://github.com/efeozell">
+    <img src="https://github-readme-stats.vercel.app/api?username=efeozell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Efe's GitHub Stats" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/EfeOzel">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeOzel&layout=compact&langs_count=6&theme=dracula" alt="Efe's Top Languages" />
-  </a>
-</p>
