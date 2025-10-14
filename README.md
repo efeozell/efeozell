@@ -68,9 +68,6 @@
     <img src="https://skillicons.dev/icons?i=postgresql" alt="nodejs" width="50" height="50"/>
   </a>
    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="nodejs" width="50" height="50"/>
-  </a>
    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
