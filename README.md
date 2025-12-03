@@ -45,6 +45,9 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" alt="nodejs" width="50" height="50"/>
   </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="nodejs" width="50" height="50"/>
+  </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="nodejs" width="50" height="50"/>
   </a>
@@ -67,10 +70,19 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgresql" alt="nodejs" width="50" height="50"/>
   </a>
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="nodejs" width="50" height="50"/>
+  </a>
    </a>
    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
+  </a>
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redis" alt="nodejs" width="50" height="50"/>
+  </a>
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=graphql" alt="nodejs" width="50" height="50"/>
   </a>
    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -84,6 +96,8 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="nodejs" width="50" height="50"/>
   </a>
+ 
+  
   
 </p>
 
