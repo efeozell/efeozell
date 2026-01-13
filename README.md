@@ -1,7 +1,7 @@
 ## Hi there, I'm Efe 👋
 
 <h3>A passionate backend developer from Turkey</h3>
-<h3> A lifelong learner passionate about engineering scalable backend systems. I build full-stack applications as a canvas to bring server-side power to life.</h3>
+<h3> A lifelong learner passionate about engineering scalable backend systems. I build back-end applications as a canvas to bring server-side power to life.</h3>
 <br/>
 
 <p>
