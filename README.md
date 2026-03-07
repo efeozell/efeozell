@@ -21,7 +21,7 @@ I am a backend enthusiast from Turkey, passionate about software architecture, d
 </p>
 
 **Architecture, DevOps & Tools** <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kafka,rabbitmq,git,github,npm" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kafka,rabbitmq,git,github,npm,postman" alt="DevOps and Tools" />
 </p>
 
 **Frontend (Familiarity)** <p align="left">
