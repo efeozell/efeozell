@@ -1,6 +1,6 @@
 ## Hi there, I'm Efe 👋
 
-**Backend Developer & Architecture| Building Scalable & Robust Systems**
+**Backend Developer & Architecture | Building Scalable Architecture & Systems**
 
 I am a backend enthusiast from Turkey, passionate about software architecture, data consistency, and solving complex engineering challenges. I focus on designing scalable APIs and managing data efficiently, using the frontend only as a canvas to bring server-side power to life.
 
