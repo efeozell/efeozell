@@ -1,110 +1,36 @@
 ## Hi there, I'm Efe 👋
 
-<h3>A passionate backend developer from Turkey</h3>
-<h3> A lifelong learner passionate about engineering scalable backend systems. I build back-end applications as a canvas to bring server-side power to life.</h3>
-<br/>
+**Backend Developer & Architecture| Building Scalable & Robust Systems**
 
-<p>
-  <ul>
-    <li>
-       🔭 As a backend enthusiast, I'm always exploring new technologies. I use the frontend as a canvas to bring the power and complexity of the backend to life.
-    </li>
-    <li>
-       🌱 I'm actively looking for opportunities to collaborate with creative people and build products that users genuinely love.
-    </li>
-    <li>
-      👯 I enjoy tackling complex challenges and turning them into simple, elegant, and scalable software solutions.
-    </li>
-  </ul>
+I am a backend enthusiast from Turkey, passionate about software architecture, data consistency, and solving complex engineering challenges. I focus on designing scalable APIs and managing data efficiently, using the frontend only as a canvas to bring server-side power to life.
+
+- 🔭 **Currently building:** Advanced backend applications and APIs using **Node.js** and **NestJS**.
+- 🌱 **Currently exploring:** Microservice Architectures, Message Brokers (Kafka, RabbitMQ), and Database Optimization.
+- 👯 **Looking to collaborate on:** Open-source backend tools or innovative product ideas.
+- 💼 **Actively seeking:** Internship or Junior Backend Developer roles to apply my skills in a production environment.
+
+---
+
+### 💻 Tech Stack
+
+**Backend & Databases** <p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,graphql" alt="Backend Technologies" />
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" alt="Databases" />
+</p>
+
+**Architecture, DevOps & Tools** <p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kafka,rabbitmq,git,github" alt="DevOps and Tools" />
+</p>
+
+**Frontend (Familiarity)** <p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css" alt="Frontend Technologies" />
 </p>
 
 ---
 
-### 📫 **Benimle İletişime Geçin**
-
-- 👨‍💻 Tüm projelerime **[efeozel.com](https://efeozel.com)** adresinden ulaşabilirsiniz. (Not: Linki çalışır hale getirdim)
-- ✉️ Bana **efeqozel@gmail.com** adresinden e-posta gönderebilirsiniz.
-- 💬 LinkedIn üzerinden bağlantı kurmak için:
-
-<p align="left">
-<a href="https://linkedin.com/in/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efeozel" height="30" width="40" /></a>
-<a href="https://instagram.com/efeeozell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efeozell" height="30" width="40" /></a>
-</p>
-
----
-
-### 💻 **Languages And Tech Stack**
-
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="nodejs" width="50" height="50"/>
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="nodejs" width="50" height="50"/>
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="nodejs" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="nodejs" width="50" height="50"/>
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="nodejs" width="50" height="50"/>
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vite" alt="nodejs" width="50" height="50"/>
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=npm" alt="nodejs" width="50" height="50"/>
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redux" alt="nodejs" width="50" height="50"/>
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="nodejs" width="50" height="50"/>
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=expressjs" alt="nodejs" width="50" height="50"/>
-  </a>
-   </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="nodejs" width="50" height="50"/>
-  </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="nodejs" width="50" height="50"/>
-  </a>
-   </a>
-   </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
-  </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redis" alt="nodejs" width="50" height="50"/>
-  </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=graphql" alt="nodejs" width="50" height="50"/>
-  </a>
-   </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="nodejs" width="50" height="50"/>
-  </a>
-   </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="nodejs" width="50" height="50"/>
-  </a>
-   </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="nodejs" width="50" height="50"/>
-  </a>
- 
-  
-  
-</p>
-
-
----
-
-### 📊 **GitHub İstatistiklerim**
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/efeozell">
@@ -112,3 +38,15 @@
   </a>
 </p>
 
+---
+
+### 📫 Let's Connect
+
+- 🌐 **Portfolio:** [efeozel.com](https://efeozel.com)
+- ✉️ **Email:** efeqozel@gmail.com
+- 💼 **LinkedIn:** [Let's connect on LinkedIn](https://linkedin.com/in/efeozell)
+
+<p align="left">
+<a href="https://linkedin.com/in/efeozell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efeozel linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/efeeozell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efeozell instagram" height="30" width="40" /></a>
+</p>
